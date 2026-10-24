@@ -1,15 +1,21 @@
-# Bộ thiết kế mô hình Sakura
+# Sakura — bản thiết kế sửa lần 2
 
-Bản thiết kế mô hình trang trí EVA dài 1.000 mm, lấy cảm hứng từ ảnh tham khảo tím–trắng–vàng và hoa anh đào.
+Bản trước giản lược quá mức so với ảnh tham khảo. Phiên bản này làm lại phần mỹ thuật với chuôi quấn hình thoi, chi tiết vàng nhiều lớp, vỏ trắng tím uốn và cành hoa anh đào.
 
-## Tải file
+![Bản mỹ thuật 02](phien-ban-02/Sakura_v2_my_thuat.png)
 
-- [Tải bộ thiết kế ZIP](https://github.com/xuanthao260604-sys/adobe/raw/refs/heads/main/Sakura_bo_thiet_ke.zip)
-- [PDF vector 5 trang](thiet-ke-sakura/Sakura_5_trang_vector.pdf)
-- [PDF in ghép A4 — 27 trang](thiet-ke-sakura/Mau_cat_ghep_A4_100pct.pdf)
-- [Hướng dẫn sử dụng](thiet-ke-sakura/HUONG_DAN.md)
-- [Các file SVG, PDF và PNG](thiet-ke-sakura/)
+## Tải bản mới
 
-![Tổng thể](thiet-ke-sakura/01_tong_the.png)
+- [ZIP bản mỹ thuật 02](https://github.com/xuanthao260604-sys/adobe/raw/refs/heads/main/Sakura_v2_my_thuat.zip)
+- [SVG chỉnh sửa](phien-ban-02/Sakura_v2_my_thuat.svg)
+- [PDF vector](phien-ban-02/Sakura_v2_my_thuat.pdf)
+- [Ghi chú phiên bản](phien-ban-02/README.md)
 
-In mẫu ở 100%, kiểm tra ô chuẩn 100 mm và thử mối nối bằng phế liệu trước khi làm toàn bộ. Đã kiểm tra file số; chưa chế tạo thử hoặc kiểm tra trực tiếp bằng Adobe Illustrator. Vỏ trang trí kín, không dùng để tra kiếm.
+Đây là bản mỹ thuật 2D. Các họa tiết mới chưa được chuyển thành khuôn cắt; không dùng trang trình bày làm mẫu cắt.
+
+## Bản 01 được giữ để đối chiếu
+
+- [Bộ khuôn cắt cũ](thiet-ke-sakura/)
+- [Hướng dẫn vật liệu và mối nối cũ](thiet-ke-sakura/HUONG_DAN.md)
+
+Chưa chế tạo thử hoặc xác nhận độ khít vật liệu thực tế.
