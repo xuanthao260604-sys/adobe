@@ -1,0 +1,65 @@
+{
+  "checks": {
+    "01_tong_the": {
+      "svg_valid": true,
+      "pdf_mm": [
+        420.0,
+        1120.0
+      ],
+      "raster_images": 0
+    },
+    "02_mau_cat": {
+      "svg_valid": true,
+      "pdf_mm": [
+        420.0,
+        1120.0
+      ],
+      "raster_images": 0
+    },
+    "03_chuoi_moi_noi": {
+      "svg_valid": true,
+      "pdf_mm": [
+        420.0,
+        310.0
+      ],
+      "raster_images": 0
+    },
+    "04_trang_tri": {
+      "svg_valid": true,
+      "pdf_mm": [
+        420.0,
+        304.0
+      ],
+      "raster_images": 0
+    },
+    "05_lap_rap": {
+      "svg_valid": true,
+      "pdf_mm": [
+        420.0,
+        297.0
+      ],
+      "raster_images": 0
+    },
+    "A4": {
+      "page_count": 27,
+      "overlap_mm": 10,
+      "size_mm": [
+        210,
+        297
+      ],
+      "vector_only": true
+    },
+    "joint": {
+      "total_length_mm": 1000,
+      "engagement_mm": 70,
+      "depth_clearance_mm": 2.5,
+      "total_width_clearance_mm": 0.5,
+      "physical_fit": "NOT TESTED"
+    }
+  },
+  "limitations": [
+    "Chưa in và chế tạo thử",
+    "Chưa mở bằng Adobe Illustrator",
+    "Vỏ trang trí kín, không tra thân kiếm"
+  ]
+}

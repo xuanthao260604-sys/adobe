@@ -1,0 +1,245 @@
+[
+  {
+    "sheet": "02_mau_cat",
+    "row": 1,
+    "column": 1,
+    "origin_mm": [
+      0,
+      0
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 1,
+    "column": 2,
+    "origin_mm": [
+      180,
+      0
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 1,
+    "column": 3,
+    "origin_mm": [
+      360,
+      0
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 2,
+    "column": 1,
+    "origin_mm": [
+      0,
+      267
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 2,
+    "column": 2,
+    "origin_mm": [
+      180,
+      267
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 2,
+    "column": 3,
+    "origin_mm": [
+      360,
+      267
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 3,
+    "column": 1,
+    "origin_mm": [
+      0,
+      534
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 3,
+    "column": 2,
+    "origin_mm": [
+      180,
+      534
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 3,
+    "column": 3,
+    "origin_mm": [
+      360,
+      534
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 4,
+    "column": 1,
+    "origin_mm": [
+      0,
+      801
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 4,
+    "column": 2,
+    "origin_mm": [
+      180,
+      801
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 4,
+    "column": 3,
+    "origin_mm": [
+      360,
+      801
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 5,
+    "column": 1,
+    "origin_mm": [
+      0,
+      1068
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 5,
+    "column": 2,
+    "origin_mm": [
+      180,
+      1068
+    ]
+  },
+  {
+    "sheet": "02_mau_cat",
+    "row": 5,
+    "column": 3,
+    "origin_mm": [
+      360,
+      1068
+    ]
+  },
+  {
+    "sheet": "03_chuoi_moi_noi",
+    "row": 1,
+    "column": 1,
+    "origin_mm": [
+      0,
+      0
+    ]
+  },
+  {
+    "sheet": "03_chuoi_moi_noi",
+    "row": 1,
+    "column": 2,
+    "origin_mm": [
+      180,
+      0
+    ]
+  },
+  {
+    "sheet": "03_chuoi_moi_noi",
+    "row": 1,
+    "column": 3,
+    "origin_mm": [
+      360,
+      0
+    ]
+  },
+  {
+    "sheet": "03_chuoi_moi_noi",
+    "row": 2,
+    "column": 1,
+    "origin_mm": [
+      0,
+      267
+    ]
+  },
+  {
+    "sheet": "03_chuoi_moi_noi",
+    "row": 2,
+    "column": 2,
+    "origin_mm": [
+      180,
+      267
+    ]
+  },
+  {
+    "sheet": "03_chuoi_moi_noi",
+    "row": 2,
+    "column": 3,
+    "origin_mm": [
+      360,
+      267
+    ]
+  },
+  {
+    "sheet": "04_trang_tri",
+    "row": 1,
+    "column": 1,
+    "origin_mm": [
+      0,
+      0
+    ]
+  },
+  {
+    "sheet": "04_trang_tri",
+    "row": 1,
+    "column": 2,
+    "origin_mm": [
+      180,
+      0
+    ]
+  },
+  {
+    "sheet": "04_trang_tri",
+    "row": 1,
+    "column": 3,
+    "origin_mm": [
+      360,
+      0
+    ]
+  },
+  {
+    "sheet": "04_trang_tri",
+    "row": 2,
+    "column": 1,
+    "origin_mm": [
+      0,
+      267
+    ]
+  },
+  {
+    "sheet": "04_trang_tri",
+    "row": 2,
+    "column": 2,
+    "origin_mm": [
+      180,
+      267
+    ]
+  },
+  {
+    "sheet": "04_trang_tri",
+    "row": 2,
+    "column": 3,
+    "origin_mm": [
+      360,
+      267
+    ]
+  }
+]
