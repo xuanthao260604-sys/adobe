@@ -1,0 +1,85 @@
+{
+  "03_Hoa_van_khac_than.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "09_Than_vo.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "08_Dai_vai_xanh.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "11_Dai_kim_loai_vo.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "Yasuo_vector_tong_the.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "12_Day_buoc_vo.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "Yasuo_boc_tach.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "01_Than_kiem.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "13_Hieu_ung_gio.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "07_Chan_tay_xoay_gio.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "04_Loi_chuoi.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "06_Dau_chuoi.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "02_Vien_luoi_Hamon.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "05_Day_quan_chuoi.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "10_Hoa_van_vo.svg": {
+    "xml_valid": true,
+    "unique_ids": true,
+    "raster_images": 0
+  },
+  "Yasuo_boc_tach.pdf": {
+    "pages": 1,
+    "raster_images": 0
+  },
+  "Yasuo_vector_tong_the.pdf": {
+    "pages": 1,
+    "raster_images": 0
+  }
+}
