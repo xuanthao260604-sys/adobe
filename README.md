@@ -4,7 +4,7 @@ Bản thiết kế mô hình trang trí EVA dài 1.000 mm, lấy cảm hứng t�
 
 ## Tải file
 
-- [Tải bộ thiết kế ZIP](../../raw/refs/heads/main/Sakura_bo_thiet_ke.zip)
+- [Tải bộ thiết kế ZIP](https://github.com/xuanthao260604-sys/adobe/raw/refs/heads/main/Sakura_bo_thiet_ke.zip)
 - [PDF vector 5 trang](thiet-ke-sakura/Sakura_5_trang_vector.pdf)
 - [PDF in ghép A4 — 27 trang](thiet-ke-sakura/Mau_cat_ghep_A4_100pct.pdf)
 - [Hướng dẫn sử dụng](thiet-ke-sakura/HUONG_DAN.md)
